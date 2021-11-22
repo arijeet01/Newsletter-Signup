@@ -66,8 +66,3 @@ app.listen(process.env.PORT || 3000, function(){
     console.log("Server started at 3000");
 });
 
-// Api Key
-// 0cf43cdadb3b1006c03c5ded13fedb9d-us20
-
-// Audience Id
-// 1d4689d30c
